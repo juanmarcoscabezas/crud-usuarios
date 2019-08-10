@@ -1,6 +1,6 @@
 # crud-usuarios
 
-## Un simple crud para usuarios
+## Ejemplo crud para usuarios
 
 ### Desarrollado con php y vue.js
 
