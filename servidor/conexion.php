@@ -1,8 +1,8 @@
 <?php
-$servidor = "mysql1005.mochahost.com";    //Servidor
-$usuario = "hruiz76_juan";          //Usuario
-$clave = "juan123";                //Clave
-$bd = "hruiz76_juan";		//Base de datos
+$servidor = "localhost";    //Servidor
+$usuario = "root";          //Usuario
+$clave = "";                //Clave
+$bd = "crud-usuarios";		//Base de datos
 
   $conn=mysqli_connect($servidor,$usuario,$clave, $bd);
       
